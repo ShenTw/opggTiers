@@ -9,4 +9,4 @@ For those who don't want always open opgg by explorer or install the opgg applic
 這是一種從 opgg 中的英雄聯盟數據中抓取數據的練習。
 只需點擊.exe文件，就可以從opgg中獲取每個位置中tier1，tier2的英雄。
 
-對於那些不想總是通過瀏覽器打開 opgg 或安裝 opgg 的桌面程式的（你可以在這裡找到：https://www.op.gg/）的人，你可以嘗試 opggTiers 來獲得更簡單的版本(Console)。
+對於那些不想總是通過瀏覽器打開 opgg 或安裝 opgg 的桌面程式的（你可以在這裡找到：https://www.op.gg/)的人，你可以嘗試 opggTiers 來獲得更簡單的版本(Console)。
